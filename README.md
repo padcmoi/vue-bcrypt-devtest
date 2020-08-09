@@ -3,6 +3,7 @@
 ## Project setup
 
 ```
+git clone https://github.com/padcmoi/vue-bcrypt-devtest
 npm install
 npm install --save bcryptjs
 
